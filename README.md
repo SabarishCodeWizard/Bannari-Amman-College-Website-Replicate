@@ -68,21 +68,6 @@ bitwebsite/
 
 3. Open `index.html` in your browser to view the website.
 
-## Screenshots
-### Home Page
-![Home Page](images/screenshot-home.png)
-
-### About Us Page
-![About Us Page](images/screenshot-about.png)
-
-### Courses Offered
-![Courses Offered](images/screenshot-courses.png)
-
-### Admission Details
-![Admission Details](images/screenshot-admission.png)
-
-### Contact Information
-![Contact Information](images/screenshot-contact.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.

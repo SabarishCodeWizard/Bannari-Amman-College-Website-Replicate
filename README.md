@@ -9,7 +9,7 @@ This project is a duplicate of the BANNARI AMMAN INSTITUTE OF TECHNOLOGY website
 You can view the project [here](https://sabarishcodewizard.github.io/bitwebsite/index.html).
 
 ## Table of Contents
-- [Project Overview](#project-overview)
+- [Project Overview](#project-overview)fdsaf
 - [Project Link](#project-link)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
